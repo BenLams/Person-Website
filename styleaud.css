@@ -6,7 +6,7 @@
     text-align: center;
     
     padding-top: 10px;
-    background-image: url("/Images/lady.jpeg");
+    background-image: url("lady.jpeg");
 }
 
 .fa-arrow-left{
