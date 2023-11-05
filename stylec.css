@@ -16,7 +16,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: url('/Images/contact.jpg');
+    background: url('contact.jpg');
     background-size: cover;
 }
 .Contact .content{
